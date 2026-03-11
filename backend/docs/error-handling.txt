@@ -1,0 +1,4 @@
+React components should handle errors gracefully.
+Try/catch blocks capture async errors.
+Error boundaries catch rendering errors in class components.
+Displays fallback UI instead of crashing the app.

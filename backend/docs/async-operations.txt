@@ -1,0 +1,4 @@
+Async operations handle tasks that take time, like API calls.
+Promises and async/await are used to manage asynchronous code.
+Always handle errors using try/catch.
+Helps prevent UI blocking and improves UX.

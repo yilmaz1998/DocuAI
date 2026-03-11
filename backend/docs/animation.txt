@@ -1,0 +1,4 @@
+Animations enhance UI interactivity.
+CSS transitions and keyframes animate elements.
+Libraries like Framer Motion offer advanced animations.
+Use animations sparingly to avoid performance issues.

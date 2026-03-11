@@ -1,0 +1,4 @@
+Debugging helps find and fix code issues.
+Console.log is a simple debugging tool.
+Browser devtools allow inspecting components and network requests.
+Breakpoints let you step through code execution.

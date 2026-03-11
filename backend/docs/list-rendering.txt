@@ -1,0 +1,4 @@
+Lists render multiple items dynamically.
+Use Array.map() to render elements.
+Provide a unique key prop for each list item.
+Helps React track and update components efficiently.

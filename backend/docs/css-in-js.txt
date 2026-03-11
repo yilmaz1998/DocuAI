@@ -1,0 +1,4 @@
+CSS-in-JS allows writing styles in JavaScript files.
+Styled-components and Emotion are popular libraries.
+Styles are scoped to components, avoiding global conflicts.
+Supports dynamic styling based on props.

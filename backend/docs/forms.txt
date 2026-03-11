@@ -1,0 +1,4 @@
+Forms collect user input in React applications.
+useState often manages form data.
+onChange handles input updates.
+onSubmit processes form submission.

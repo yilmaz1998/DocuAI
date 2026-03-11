@@ -1,0 +1,4 @@
+React is a JavaScript library for building user interfaces.
+It uses a component-based architecture and a virtual DOM.
+JSX allows writing HTML-like syntax in JavaScript.
+Components can be functional or class-based.

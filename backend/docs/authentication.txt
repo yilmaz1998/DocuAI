@@ -1,0 +1,4 @@
+Authentication verifies user identity.
+Common methods: email/password, OAuth, JWT.
+React apps handle auth state and route protection.
+Store tokens securely, avoid localStorage for sensitive info.

@@ -1,0 +1,4 @@
+Responsive design adapts web pages to different screen sizes.
+CSS media queries define styles for breakpoints.
+Flexbox and Grid layouts help create flexible layouts.
+Viewport meta tag ensures correct scaling on devices.

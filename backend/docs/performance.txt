@@ -1,0 +1,4 @@
+React performance can be improved with memoization.
+React.memo prevents unnecessary re-renders.
+useCallback and useMemo optimize functions and values.
+Code-splitting and lazy loading improve initial load time.

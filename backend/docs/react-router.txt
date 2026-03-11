@@ -1,0 +1,4 @@
+React Router enables routing in single-page applications.
+<BrowserRouter> wraps the application.
+<Route> defines path-component mapping.
+<Link> creates navigation links without reloading the page.

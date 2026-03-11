@@ -1,0 +1,4 @@
+Accessibility (a11y) ensures apps are usable by everyone.
+Use semantic HTML elements and ARIA attributes.
+Keyboard navigation and screen reader support are important.
+Helps meet legal and UX standards.

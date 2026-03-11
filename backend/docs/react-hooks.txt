@@ -1,0 +1,4 @@
+React hooks are functions that let you use state and lifecycle features in functional components.
+useState declares state variables.
+useEffect manages side effects like API calls or subscriptions.
+Custom hooks can reuse logic across components.

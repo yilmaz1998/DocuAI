@@ -1,0 +1,4 @@
+Follow best practices for maintainable React code.
+Keep components small and reusable.
+Use descriptive variable and function names.
+Document code and use version control like Git.

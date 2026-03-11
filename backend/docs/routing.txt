@@ -1,0 +1,4 @@
+Routing enables navigation without reloading the page.
+React Router handles client-side routing.
+Dynamic routes use parameters like /users/:id.
+Nested routes render components within parent routes.

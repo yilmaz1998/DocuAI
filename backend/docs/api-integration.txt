@@ -1,0 +1,4 @@
+React apps often fetch data from APIs.
+fetch() and Axios are common methods.
+Store API data in state using useState or useReducer.
+Handle loading and error states gracefully.

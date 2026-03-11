@@ -1,0 +1,4 @@
+React normalizes events into SyntheticEvents.
+onClick, onChange, onSubmit are common handlers.
+Prevent default browser behavior with event.preventDefault().
+Pass functions as handlers, not function calls.

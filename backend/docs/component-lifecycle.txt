@@ -1,0 +1,3 @@
+Functional components use hooks for lifecycle: useEffect for mounting, updating, cleanup.
+Class components have methods like componentDidMount, componentDidUpdate, componentWillUnmount.
+Understanding lifecycle helps manage side effects efficiently.

@@ -1,0 +1,4 @@
+Form validation ensures user input is correct.
+HTML5 validation attributes or libraries like Yup can be used.
+Check required fields, format, and value ranges.
+Provide clear error messages for better UX.

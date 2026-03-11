@@ -1,0 +1,4 @@
+Redux manages global state for React apps.
+Store holds state, actions describe changes, reducers apply changes.
+useSelector and useDispatch connect components to the store.
+Middleware handles async actions like API calls.

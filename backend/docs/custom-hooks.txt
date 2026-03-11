@@ -1,0 +1,4 @@
+Custom hooks reuse logic across multiple components.
+Prefix hook names with use, e.g., useFetchData.
+Return state and functions for consuming components.
+Helps keep components clean and DRY.

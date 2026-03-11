@@ -1,0 +1,4 @@
+State management organizes and updates app state consistently.
+React's useState and useReducer handle local state.
+Redux is used for global state across components.
+Context API allows passing state without prop drilling.

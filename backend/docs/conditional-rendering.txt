@@ -1,0 +1,4 @@
+Conditional rendering displays components based on conditions.
+Use ternary operators or && in JSX.
+Example: {isLoggedIn ? <Dashboard /> : <Login />}
+Helps create dynamic user interfaces.

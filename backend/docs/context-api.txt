@@ -1,0 +1,4 @@
+Context API shares data across components without props.
+Create context with React.createContext().
+Wrap components with Context.Provider.
+Consume context with useContext hook.

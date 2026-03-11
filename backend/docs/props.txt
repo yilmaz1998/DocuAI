@@ -1,0 +1,4 @@
+Props are inputs passed to components from parent components.
+They are read-only and cannot be modified by the child component.
+Default props can provide fallback values.
+PropTypes validate props types during development.

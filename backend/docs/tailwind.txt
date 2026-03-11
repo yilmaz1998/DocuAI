@@ -1,0 +1,4 @@
+Tailwind CSS is a utility-first CSS framework.
+Classes like 'flex', 'p-4', 'text-center' style elements directly.
+Responsive design uses breakpoints like sm:, md:, lg:.
+Avoids writing custom CSS for most layouts.

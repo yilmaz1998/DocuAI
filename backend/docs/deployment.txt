@@ -1,0 +1,4 @@
+React apps can be deployed on platforms like Vercel, Netlify, or Firebase Hosting.
+Build the app with npm run build.
+Upload static files or connect Git repository for automatic deployment.
+Check environment variables for production settings.

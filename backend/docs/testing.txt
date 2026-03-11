@@ -1,0 +1,4 @@
+Testing ensures components work as expected.
+Jest is a popular testing framework.
+React Testing Library tests UI behavior.
+Unit tests, integration tests, and snapshot tests are common.
