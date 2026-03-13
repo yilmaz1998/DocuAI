@@ -33,7 +33,7 @@ app.post('/ask', async (req, res) => {
 
         const results = await collection.query({
             queryEmbeddings: [queryEmbedding],
-            nResults: 5,
+            nResults: 3,
         });
 
         const context = results.documents[0].join('\n');
@@ -65,10 +65,12 @@ app.post('/ask', async (req, res) => {
 
         const answer = completion.choices[0].message.content;
 
-        res.json({
-            answer,
-            sources: results.metadatas[0]
-        });
+        const sources =
+        answer.toLowerCase().replace(/[.?!]/g, "") === "i don't know"
+          ? []
+          : results.metadatas[0];
+  
+      res.json({ answer, sources });
 
     } catch (error) {
         console.error(error);
