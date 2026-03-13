@@ -20,8 +20,8 @@ DocuAI is an interactive web application that allows users to ask programming an
 
 ## Screenshots
 
-![Screenshot 1](screenshots/DocuAI.png)  
 ![Screenshot 2](screenshots/DocuAI2.png)
+![Screenshot 1](screenshots/DocuAI.png)  
 ![Screenshot 3](screenshots/DocuAI3.png)
 
 ## Getting Started  
