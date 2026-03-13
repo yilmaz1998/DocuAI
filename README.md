@@ -2,6 +2,8 @@
 
 DocuAI is an interactive web application that allows users to ask programming and web development-related questions, with a special focus on React concepts. It leverages a local **ChromaDB** for storing document embeddings and **OpenAI’s GPT-4o-mini** for generating contextual answers.
 
+[Youtube Demo Video](https://www.youtube.com/watch?v=JI4U8W84e10)
+
 ## Features
 
 - Ask questions related to React, JavaScript, web development, and software concepts.  
